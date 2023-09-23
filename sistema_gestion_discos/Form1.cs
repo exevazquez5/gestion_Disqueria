@@ -15,6 +15,9 @@ namespace sistema_gestion_discos
         public Form1()
         {
             InitializeComponent();
+            
+
+
         }
     }
 }
